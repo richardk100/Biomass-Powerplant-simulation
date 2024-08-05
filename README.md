@@ -21,4 +21,4 @@ To run this project, you need the following software:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/richardk100/Biomass-Powerplant-simulation.git
